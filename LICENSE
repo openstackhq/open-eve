@@ -1,21 +1,26 @@
-MIT License
+[CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/legalcode.en) License
 
 Copyright (c) 2025 OpenStack
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+# You are free to:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+* Share — copy and redistribute the material in any medium or format
+* Adapt — remix, transform, and build upon the material
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+The licensor cannot revoke these freedoms as long as you follow the license terms.
+
+# Under the following terms:
+
+* Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+* NonCommercial — You may not use the material for commercial purposes.
+* ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+
+# With the understanding that:
+
+* Waiver — Any of the above conditions can be waived if you get permission from the copyright holder.
+* Public License — This license is intended to be compatible with the Public License mechanism in software licenses.
+* Other Rights — In no way are the patent or trademark rights of any person affected by CC-BY-NC, nor are the rights that other persons may have in the work or in how the work is used, such as publicity or privacy rights.
+
+Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
+
+PLEASE READ THE FULL LICENSE AT [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/legalcode.en)
