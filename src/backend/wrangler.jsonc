@@ -1,0 +1,25 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "backend",
+  "main": "src/index.ts",
+  "compatibility_date": "2026-04-30",
+  "compatibility_flags": ["nodejs_compat"],
+  "observability": {
+    "enabled": true,
+    "head_sampling_rate": 1
+  },
+  // KV namespace used by /chat to keep the last 6 turns of conversation per device.
+  // Create with: bunx wrangler kv namespace create SESSIONS
+  // Then paste the returned id below (and optionally a preview_id for `wrangler dev`).
+  "kv_namespaces": [
+    {
+      "binding": "SESSIONS",
+      "id": "3a39873e74534ac4905affbb8d795ebe",
+      "preview_id": "66e9bb972cd54fce9c226983691c7381"
+    }
+  ]
+  // Secrets (set via `wrangler secret put <NAME>` in prod, or .dev.vars locally):
+  //   SARVAM_API_KEY     - Sarvam Saaras v3 STT and Bulbul v3 TTS
+  //   OPENAI_API_KEY     - OpenAI for the Vercel AI SDK agent
+  //   FIRECRAWL_API_KEY  - Firecrawl web search tool
+}
